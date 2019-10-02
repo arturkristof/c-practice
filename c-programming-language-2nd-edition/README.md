@@ -1,0 +1,1 @@
+Exercises from the "The C Programming Language, 2nd Edition" book.
