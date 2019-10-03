@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define BLANK '\b'
+#define BLANK ' '
 #define TAB '\t'
 #define NEW_LINE '\n'
 
